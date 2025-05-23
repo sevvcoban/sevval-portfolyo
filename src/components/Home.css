@@ -1,0 +1,12 @@
+.home {
+  background: #fff;
+  border-radius: 30px;
+  padding: 10px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px #f7b6d5;
+  text-align: center;
+}
+.home h2 {
+  color: #d72660;
+  font-size: 2rem;
+} 

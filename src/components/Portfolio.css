@@ -1,0 +1,13 @@
+.portfolio {
+  background: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  margin-bottom: 20px;
+  box-shadow: 0 2px 8px #f7b6d5;
+}
+.portfolio h3 {
+  color: #d72660;
+}
+.portfolio ul {
+  padding-left: 20px;
+} 
