@@ -1,11 +1,27 @@
+/* Ribbon background */
+/*
 body {
   margin: 0;
   font-family: 'Montserrat', sans-serif;
-  background-color: #ffe0ef;
-  background-image: src="/assets/download.jpg";
+  background-color: #ffebf5;
+  background-image: url("./assets/ribbon.png");
   background-repeat: repeat;
-  background-size: 120px 90px;
+  background-size: 60px 45px;
   background-position: 0 0;
+  background-attachment: fixed;
+}
+*/
+
+/* Pink bow background - currently active */
+body {
+  margin: 0;
+  font-family: 'Montserrat', sans-serif;
+  background-color: #ffebf5;
+  background-image: url("./assets/pink-bow.png");
+  background-repeat: repeat;
+  background-size: 50px 50px;
+  background-position: 0 0;
+  background-attachment: fixed;
 }
 
 .App {

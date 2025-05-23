@@ -1,0 +1,1 @@
+npm install --save-dev @types/react@^19.0.0 @types/react-dom@^19.0.0

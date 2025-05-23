@@ -1,0 +1,1 @@
+npm install react@^19.1.0 react-dom@^19.1.0 react-icons@^5.5.0 babel-plugin-react-compiler@beta eslint-plugin-react-compiler@beta
